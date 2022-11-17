@@ -13,10 +13,7 @@ The only things you can’t do:
 Authors:
 
 - Designed and Developed By Walid Rabie
--
-Main Project:https://github.com/engwalid404/Snow-Master
-
- -
-Live Demo:https://engwalid404.github.io/Snow-Master/
+- Main Project:https://github.com/engwalid404/Snow-Master
+- Live Demo:https://engwalid404.github.io/Snow-Master/
 
 
