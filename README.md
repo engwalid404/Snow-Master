@@ -13,9 +13,9 @@ The only things you can’t do:
 Authors:
 
 - Designed by walid rabie
-Portfolio Link: https://dribbble.com/sudinasa
+Main Project:https://github.com/engwalid404/Snow-Master
 
  - Developed by walid rabie
-Portfolio Link: https://dribbble.com/_nK
+Live Demo: https://dribbble.com/_nK
 
 
